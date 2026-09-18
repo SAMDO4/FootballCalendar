@@ -18,7 +18,7 @@
 
 ![메인 캘린더 화면](images/main.png)
 
-- ## 📸 화면
+- ## 📸 설정 화면
 
 - ### 팀 선택 / 설정 탭
 ![팀 선택 화면](images/settings-team.png)
